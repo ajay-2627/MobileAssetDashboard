@@ -11,10 +11,6 @@ This **Mobile Asset Management Dashboard** was designed to **track and manage mo
 ✅ **Interactive Visuals** – Power BI charts, maps, and KPIs for better decision-making.  
 
 🔗 **Dashboard Preview:** [Click to View](https://drive.google.com/file/d/17NUGdMP7wU20Vtk39x5XHPEYVw1btCnt/view?usp=sharing)  
-
-🖼️ **Dashboard Screenshot:**  
-![Mobile Asset Dashboard](https://github.com/yourusername/yourrepository/raw/main/Screenshot%202025-03-13%20194922.png)  
-
 ---
 
 ## 🛠️ **Tech Stack Used**  
